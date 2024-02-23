@@ -1,4 +1,4 @@
-Video Transmission using Socket and OpenCV
+# Video Transmission using Socket and OpenCV
 
 This repository contains a Python project for transmitting video over a local network using sockets and OpenCV. The project consists of two main scripts: `client.py` and `server.py`.
 
